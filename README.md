@@ -1,8 +1,4 @@
-# React + Vite
+# WorldWise
+## Project made amidst the Ultimate React Course by Jonas Schmedtmann
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![localhost_5173_app_form_lat=19 093266636089712 lng=73 11950683593751](https://github.com/vaidanshbhardwaj/worldwise/assets/94763871/2263c59f-8c92-40b8-a20c-53fa25c4fdf5)
